@@ -42,10 +42,10 @@ Direct visibility into four main metrics:
 
 ## 📸 Screenshots
 
-### 1. Dashboard Landing Page
+### 1. Dashboard Home Page
 ![Home Page](https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/HomePage_Screenshot.png)
 
-### 2. Main Sales Analysis
+### 2. Dashboard
 ![Dashboard](https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/Overview_Screenshot.png)
 
 ---
