@@ -23,7 +23,7 @@ Calculated measures were organized in a dedicated _Measures table for better per
 - Customer Base: Count of unique customers served.
 - Avg Order Value: The average revenue generated per transaction.
 - Transaction Count: Total number of sales recorded.
-- 
+
 ### 2. Custom Calculated Column (Order Category)
 The core of the segmentation analysis involved creating a calculated column to classify orders based on their volume:
 - Small Orders: Standard individual transactions.
@@ -51,10 +51,10 @@ Direct visibility into four main metrics:
 ## 📸 Screenshots
 
 ### 1. Dashboard Home Page
-![Home Page]((https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/HomePage_Screenshot.png))
+![Home Page](https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/HomePage_Screenshot.png)
 
 ### 2. Dashboard
-![Dashboard]((https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/Overview_Screenshot.png))
+![Dashboard](https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/Overview_Screenshot.png)
 
 ---
 Developed by: Afaf Alshahrani
