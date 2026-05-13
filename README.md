@@ -16,20 +16,28 @@ An interactive Power BI dashboard focused on analyzing global sales distribution
 
 ## 🚀 Features & Logic
 
-### 1. Custom Calculated Column (Order Category)
+### 1. DAX Measures (Centralized Logic)
+Calculated measures were organized in a dedicated _Measures table for better performance and maintainability:
+- Total Sales: The sum of all revenue generated.
+- Total Units Sold: Total volume of products sold.
+- Customer Base: Count of unique customers served.
+- Avg Order Value: The average revenue generated per transaction.
+- Transaction Count: Total number of sales recorded.
+- 
+### 2. Custom Calculated Column (Order Category)
 The core of the segmentation analysis involved creating a calculated column to classify orders based on their volume:
 - Small Orders: Standard individual transactions.
 - Large Orders: Bulk or high-value transactions.
 > *This classification is visualized in the "Sales by Order Size" Pie chart.*
 
-### 2. Key Performance Indicators (KPIs)
+### 3. Key Performance Indicators (KPIs)
 Direct visibility into four main metrics:
 - Total Revenue: $8.9M
 - Total Quantity: 5M
 - Total Customers: 4K
 - Avg Order Value: 481
 
-### 3. Visual Components
+### 4. Visual Components
 - Home Page: A professional entry screen with project objectives and overview.
 - Revenue Over Time: Line chart showing trends across Years, Quarters, and Months using a Date Hierarchy.
 - Global Sales Map: Spatial distribution of sales volume across different countries.
@@ -43,10 +51,10 @@ Direct visibility into four main metrics:
 ## 📸 Screenshots
 
 ### 1. Dashboard Home Page
-![Home Page](https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/HomePage_Screenshot.png)
+![Home Page]((https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/HomePage_Screenshot.png))
 
 ### 2. Dashboard
-![Dashboard](https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/Overview_Screenshot.png)
+![Dashboard]((https://github.com/AlshahraniAfaf/Global-Sales-Performance-Analysis-Project/blob/main/Overview_Screenshot.png))
 
 ---
 Developed by: Afaf Alshahrani
